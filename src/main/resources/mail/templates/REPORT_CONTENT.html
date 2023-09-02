@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="initial-scale=1.0, width=device-width"></head>
+<body style="margin: 2%">
+<header>
+    <h2>Dzień dobry <span th:text="${name}"></span></h2>
+</header>
+
+<p>Oto raport <b><span th:text="${report}"></span></b>, wygenerowany dnia <b><span th:text="${date}"></span></b>.</p>
+
+<footer>
+    Z poważaniem zespół Lotrel.
+</footer>
+</body>
+</html>
