@@ -1,3 +1,5 @@
+Commit history is empty, because we worked on bitbucket :( 
+
 # Lotrel
 
 ## Authors:
