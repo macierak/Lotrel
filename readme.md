@@ -2,7 +2,7 @@
 
 ## Authors:
 * Maciej Wojdyła
-* Izabela Wojtowicz
+* Izabela Wojdyła (github.com/Lizeyy)
 
 ## Modules
 * AuthModule
